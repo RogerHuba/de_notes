@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD004 -->
 # This is my combined reading notes for Code and Ops
 
 ## About Roger Huba
@@ -80,7 +81,7 @@ I am Roger. I am a software developer with emphasis in Python, CyberSecurity Ent
 - [ROW NUMBER](sql/advanced/rownumber.md)
 - [RANK](sql/advanced/rank.md)
 - [LEAD](sql/advanced/lead.md)
-* [WITH STATEMENTS](sql/advanced/withstatements.md)
+- [WITH STATEMENTS](sql/advanced/withstatements.md)
 
 </details>
 </details>
