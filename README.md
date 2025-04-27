@@ -1,18 +1,21 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD004 -->
-# This is my combined reading notes for Code and Ops
+
+# Personal Notes for the Data Engineer Academy
 
 ## About Roger Huba
 
 I am Roger. I am a software developer with emphasis in Python, CyberSecurity Enthusiast, and aspiring Data Engineer.
 
-### This is how I will keep myself in a growth mindset
+## This is how I will keep myself in a growth mindset
 
 * Look at topics from a different perspective.
 * Be open to new ideas from those that are willing to share.
 * Be flexible.
 
-### Table of Contents
+---
+
+### 📚 SQL Lessons
 
 <details>
 <summary><strong>SQL</strong></summary>
@@ -47,14 +50,14 @@ I am Roger. I am a software developer with emphasis in Python, CyberSecurity Ent
 - [SUM OPERATOR](sql/intermediate/sumoperator.md)
 - [AVG OPERATOR](sql/intermediate/avgoperator.md)
 - [HAVING CLAUSE](sql/intermediate/havingclause.md)
-- [SUBQUERY WITH AGGREGATED FUNCTIONS](sql/intermediate/subquerywithaggregatedfunctions.md)
-- [CASE STATMENT](sql/intermediate/casestatment.md)
+- [SUBQUERY WITH AGGREGATE FUNCTIONS](sql/intermediate/subquerywithaggregatedfunctions.md)
+- [CASE STATEMENT](sql/intermediate/casestatement.md)
 - [LEFT JOIN](sql/intermediate/leftjoin.md)
 - [RIGHT JOIN](sql/intermediate/rightjoin.md)
 - [INNER JOIN](sql/intermediate/innerjoin.md)
-- [FULL OUTER JOIN OR OUTER JOIN](sql/intermediate/fullouterjoin.md)
+- [FULL OUTER JOIN](sql/intermediate/fullouterjoin.md)
 - [JOIN WITH WHERE](sql/intermediate/joinwithwhere.md)
-- [JOIN WITH A COMPARISON OPERATOR](sql/intermediate/joinwithacomparisonoperator.md)
+- [JOIN WITH COMPARISON](sql/intermediate/joinwithacomparisonoperator.md)
 - [DISTINCT](sql/intermediate/distinct.md)
 - [JOIN WITH MULTIPLE KEYS](sql/intermediate/joinwithmultiplekeys.md)
 - [SELF JOIN](sql/intermediate/selfjoin.md)
@@ -70,7 +73,7 @@ I am Roger. I am a software developer with emphasis in Python, CyberSecurity Ent
 - [CAST](sql/advanced/cast.md)
 - [LENGTH](sql/advanced/length.md)
 - [SUBSTRING](sql/advanced/substring.md)
-- [CHARINDEX OR SUBSTRING_INDEX](sql/advanced/charindex.md)
+- [CHARINDEX or SUBSTRING_INDEX](sql/advanced/charindex.md)
 - [TRIM](sql/advanced/trim.md)
 - [LEFT & RIGHT](sql/advanced/leftright.md)
 - [UPPER & LOWER](sql/advanced/upperlower.md)
@@ -84,4 +87,5 @@ I am Roger. I am a software developer with emphasis in Python, CyberSecurity Ent
 - [WITH STATEMENTS](sql/advanced/withstatements.md)
 
 </details>
+
 </details>

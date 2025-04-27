@@ -3,8 +3,8 @@
 
 # 📚 SELECT FROM
 
-The `SELECT` statement is used to **retrieve data** from a database.  
-It allows you to choose specific columns or entire rows from a table.
+The `SELECT` statement is used to retrieve data from a database.  
+The `FROM` clause specifies the table you want to select from.
 
 ---
 
@@ -15,8 +15,8 @@ SELECT column1, column2, ...
 FROM table_name;
 ```
 
-- `SELECT` specifies the columns you want to retrieve.
-- `FROM` specifies the table you want to pull the data from.
+- `SELECT` defines which columns to retrieve.
+- `FROM` specifies the table containing the data.
 
 ## Example
 
@@ -25,14 +25,13 @@ SELECT first_name, last_name
 FROM employees;
 ```
 
-- This query retrieves the `first_name` and `last_name` columns from the `employees` table.
+- This query retrieves the first name and last name columns from the employees table.
 
 ## Key Points
 
-- `SELECT *` retrieves **all columns** from a table.
-- Always separate multiple columns with **commas**.
-- SQL statements are **not case-sensitive**, but using uppercase for keywords (`SELECT`, `FROM`) improves readability.
-- You can retrieve one, several, or all columns from a table.
+- You can select one, multiple, or all columns (using `*`).
+- Column order in `SELECT` matters for the output.
+- Queries can include expressions (e.g., `SELECT salary * 1.1`).
 
 ## Additional Example
 
@@ -41,6 +40,36 @@ SELECT *
 FROM customers;
 ```
 
-- This retrieves **every column** from the `customers` table.
+- This query retrieves all columns from the customers table.
 
-[⬅️ Back to Main](../../README.md)   [Next ➡️ WHERE CONDITION](wherecondition.md)
+---
+
+### 🎥 Video Notes
+
+---
+
+#### 📝 Problem Description
+
+_Describe the problem, challenge, or topic discussed in a video related to `SELECT FROM`._  
+_What concept was explained or what exercise was solved?_
+
+---
+
+#### 💻 SQL Code
+
+```sql
+-- Write your SQL code attempt or solution related to SELECT FROM
+SELECT column1, column2
+FROM table_name
+WHERE condition;
+```
+
+---
+
+#### 🧠 Solution Explanation
+
+_Explain what you learned, any key takeaways, or how you solved the problem related to `SELECT FROM`._
+
+---
+
+[Main ⬅️](../../README.md)   [Next ➡️ WHERE CONDITION](wherecondition.md)
