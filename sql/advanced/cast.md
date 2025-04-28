@@ -42,4 +42,40 @@ FROM orders;
 
 - This query casts a datetime value into a plain date format.
 
+---
+
+### 🎥 Video Notes
+
+---
+
+#### 📝 Problem Description
+
+_Describe the problem, challenge, or topic discussed in a video related to `SELECT FROM`._  
+_What concept was explained or what exercise was solved?_
+
+---
+
+### DataBase Given
+
+---
+
+#### 💻 My SQL Code
+
+```sql
+-- Write your SQL code attempt or solution related to SQL COMMAND
+SQL COMMAND
+```
+
+---
+
+#### 🧠 Solution Code / Explanation
+
+```sql
+SQL COMMAND
+```
+
+Explanation - Explain what you learned, any key takeaways, or how you solved the problem related to `COMMAND`._
+
+---
+
 [⬅️ Previous: CONCAT](concat.md)   [Next ➡️ LENGTH](length.md)

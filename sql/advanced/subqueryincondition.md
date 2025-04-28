@@ -45,4 +45,40 @@ WHERE price > (SELECT AVG(price) FROM products);
 
 - This query selects products that have a price greater than the average price of all products.
 
+---
+
+### 🎥 Video Notes
+
+---
+
+#### 📝 Problem Description
+
+_Describe the problem, challenge, or topic discussed in a video related to `SELECT FROM`._  
+_What concept was explained or what exercise was solved?_
+
+---
+
+### DataBase Given
+
+---
+
+#### 💻 My SQL Code
+
+```sql
+-- Write your SQL code attempt or solution related to SQL COMMAND
+SQL COMMAND
+```
+
+---
+
+#### 🧠 Solution Code / Explanation
+
+```sql
+SQL COMMAND
+```
+
+Explanation - Explain what you learned, any key takeaways, or how you solved the problem related to `COMMAND`._
+
+---
+
 [⬅️ Previous: COALESCE](coalesce.md)   [Next ➡️ WINDOW FUNCTION](windowfunction.md)

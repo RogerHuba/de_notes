@@ -48,4 +48,40 @@ ON customers.customer_id = orders.customer_id;
 
 - This query lists all customers and orders, even if a customer has no orders or an order has no customer.
 
+---
+
+### 🎥 Video Notes
+
+---
+
+#### 📝 Problem Description
+
+_Describe the problem, challenge, or topic discussed in a video related to `SELECT FROM`._  
+_What concept was explained or what exercise was solved?_
+
+---
+
+### DataBase Given
+
+---
+
+#### 💻 My SQL Code
+
+```sql
+-- Write your SQL code attempt or solution related to SQL COMMAND
+SQL COMMAND
+```
+
+---
+
+#### 🧠 Solution Code / Explanation
+
+```sql
+SQL COMMAND
+```
+
+Explanation - Explain what you learned, any key takeaways, or how you solved the problem related to `COMMAND`._
+
+---
+
 [⬅️ Previous: INNER JOIN](innerjoin.md)   [Next ➡️ JOIN WITH WHERE](joinwithwhere.md)

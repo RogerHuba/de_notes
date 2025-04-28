@@ -48,4 +48,40 @@ ON A.customer_id = B.referrer_id;
 
 - This query shows customers and the customers they referred.
 
+---
+
+### 🎥 Video Notes
+
+---
+
+#### 📝 Problem Description
+
+_Describe the problem, challenge, or topic discussed in a video related to `SELECT FROM`._  
+_What concept was explained or what exercise was solved?_
+
+---
+
+### DataBase Given
+
+---
+
+#### 💻 My SQL Code
+
+```sql
+-- Write your SQL code attempt or solution related to SQL COMMAND
+SQL COMMAND
+```
+
+---
+
+#### 🧠 Solution Code / Explanation
+
+```sql
+SQL COMMAND
+```
+
+Explanation - Explain what you learned, any key takeaways, or how you solved the problem related to `COMMAND`._
+
+---
+
 [⬅️ Previous: JOIN WITH MULTIPLE KEYS](joinwithmultiplekeys.md)   [Next ➡️ UNION](union.md)

@@ -43,4 +43,40 @@ WHERE category = 'Electronics' OR price < 100;
 
 - This query selects all products that are in the **Electronics** category or have a `price` less than 100.
 
+---
+
+### 🎥 Video Notes
+
+---
+
+#### 📝 Problem Description
+
+_Describe the problem, challenge, or topic discussed in a video related to `SELECT FROM`._  
+_What concept was explained or what exercise was solved?_
+
+---
+
+### DataBase Given
+
+---
+
+#### 💻 My SQL Code
+
+```sql
+-- Write your SQL code attempt or solution related to SQL COMMAND
+SQL COMMAND
+```
+
+---
+
+#### 🧠 Solution Code / Explanation
+
+```sql
+SQL COMMAND
+```
+
+Explanation - Explain what you learned, any key takeaways, or how you solved the problem related to `COMMAND`._
+
+---
+
 [⬅️ Previous: AND OPERATOR](andoperator.md)   [Next ➡️ NOT OPERATOR](notoperator.md)

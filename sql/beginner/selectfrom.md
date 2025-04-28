@@ -63,7 +63,7 @@ _What concept was explained or what exercise was solved?_
 
 ```sql
 -- Write your SQL code attempt or solution related to SELECT FROM
-SQL COMMAND
+SELECT FROM
 ```
 
 ---
