@@ -55,20 +55,26 @@ _What concept was explained or what exercise was solved?_
 
 ---
 
-#### 💻 SQL Code
+### DataBase Given
+
+---
+
+#### 💻 My SQL Code
 
 ```sql
 -- Write your SQL code attempt or solution related to SELECT FROM
-SELECT column1, column2
-FROM table_name
-WHERE condition;
+SELECT FROM
 ```
 
 ---
 
-#### 🧠 Solution Explanation
+#### 🧠 Solution Code / Explanation
 
-_Explain what you learned, any key takeaways, or how you solved the problem related to `SELECT FROM`._
+```sql
+SELECT FROM
+```
+
+Explanation - Explain what you learned, any key takeaways, or how you solved the problem related to `SELECT FROM`._
 
 ---
 
