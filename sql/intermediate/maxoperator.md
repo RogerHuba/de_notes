@@ -70,13 +70,7 @@ SQL COMMAND
 
 ---
 
-#### 🧠 Solution Code / Explanation
-
-```sql
-SQL COMMAND
-```
-
-Explanation - Explain what you learned, any key takeaways, or how you solved the problem related to `COMMAND`._
+#### Explanation
 
 ---
 

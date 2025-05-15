@@ -62,22 +62,12 @@ _What concept was explained or what exercise was solved?_
 
 ---
 
-#### 💻 My SQL Code
+#### 🧠 Solution Code / Explanation
 
 ```sql
 -- Write your SQL code attempt or solution related to SQL COMMAND
 SQL COMMAND
 ```
-
----
-
-#### 🧠 Solution Code / Explanation
-
-```sql
-SQL COMMAND
-```
-
-Explanation - Explain what you learned, any key takeaways, or how you solved the problem related to `COMMAND`._
 
 ---
 
